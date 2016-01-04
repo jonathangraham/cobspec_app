@@ -1,0 +1,14 @@
+com/jgraham/cobspec/ResponseBuilderTests/ParameterDecodeBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/PatchResponseBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/PartialContentBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/Status200BuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/BasicAuthenticationBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/RedirectBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/FileDirectoryBuilderTest.class
+com/jgraham/cobspec/RoutersTest/CobspecRouterTest.class
+com/jgraham/cobspec/ResponseBuilderTests/BasicAuthenticationRequiredTest.class
+com/jgraham/cobspec/ResponseBuilderTests/MethodOptionsBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/MethodNotAllowedBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/FileContentsBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/FormResponseBuilderTest.class
+com/jgraham/cobspec/ResponseBuilderTests/FourOhFourBuilderTest.class

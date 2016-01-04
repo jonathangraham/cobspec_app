@@ -1,0 +1,14 @@
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/Status200BuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/PartialContentBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/FileContentsBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/ParameterDecodeBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/FileDirectoryBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/PatchResponseBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/FormResponseBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/BasicAuthenticationRequiredTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/MethodNotAllowedBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/RoutersTest/CobspecRouterTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/FourOhFourBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/BasicAuthenticationBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/MethodOptionsBuilderTest.java
+/Users/jonathangraham/code/cobspec/src/test/java/com/jgraham/cobspec/ResponseBuilderTests/RedirectBuilderTest.java
